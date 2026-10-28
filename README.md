@@ -1,5 +1,9 @@
 # Item Manager – CRUD with Express, REST API, HTML & CSS
 
+## Demo Video
+
+https://github.com/user-attachments/assets/73ad769f-a582-475a-ac45-f744ad6e209e
+
 ## Run
 ```
 npm install
