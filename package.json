@@ -1,0 +1,12 @@
+{
+  "name": "crud-items-app",
+  "version": "1.0.0",
+  "description": "CRUD operations on an array of items using HTML, CSS, Express.js and a REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
